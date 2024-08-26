@@ -1,1 +1,2 @@
 todo list application is created
+this app is created using js
